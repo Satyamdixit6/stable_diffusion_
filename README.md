@@ -1,1 +1,1 @@
-# stabke_diffusion_correct
+# stable_diffusion_correct
