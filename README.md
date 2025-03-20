@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or collaboration opportunities, please reach out:
 
 - **Name**: Satyam Dixit
-- **Email**: satyam.dixit@example.com
+- **Email**: satyamdixit6666@gmail.com
 - **GitHub**: [Satyamdixit6](https://github.com/Satyamdixit6)
 
 ---
